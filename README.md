@@ -35,7 +35,7 @@ Projeto realizado para a disciplina Front-End do 1º Semestre - 4ª semamna - do
 ## ▶️ Como Executar
 1. Clone o repositório
    ```bash
-  git clone https://github.com/ValeryAlves/FRONT-END-FORMULARIO-Sem.4.git
+   git clone https://github.com/ValeryAlves/FRONT-END-FORMULARIO-Sem.4.git
   
 2. Coloque os arquivos em um servidor local
 - Pode usar XAMPP, WAMP ou Laragon.
