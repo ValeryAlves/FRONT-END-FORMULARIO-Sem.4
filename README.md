@@ -43,7 +43,7 @@ Projeto realizado para a disciplina Front-End do 1º Semestre - 4ª semamna - do
 
 3. Inicie o servidor e acesse no navegador:
    ```bash
-   http://localhost/projeto-formulario/index.html
+      http://localhost/projeto-formulario/index.html
 
 4. Preencha e envie o formulário para ver a exibição dos dados processados em PHP.
 
