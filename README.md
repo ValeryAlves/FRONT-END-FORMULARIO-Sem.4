@@ -1,5 +1,6 @@
 ## 📋 Formulário de Registro com Validação
-Este projeto é um formulário web interativo para registro de usuários, desenvolvido em HTML, CSS, JavaScript e PHP. Ele conta com validação de dados no lado do cliente (JavaScript) e processamento no lado do servidor (PHP), garantindo maior integridade e segurança das informações inseridas.
+Este projeto é um formulário web interativo para registro de usuários, desenvolvido em **HTML**, **CSS**, **JavaScript** e **PHP**. Ele conta com validação de dados no lado do cliente (JavaScript) e processamento no lado do servidor (PHP), garantindo maior integridade e segurança das informações inseridas.
+Projeto realizado para a disciplina Front-End do 1º Semestre - 4ª semamna - do curso de Sistemas para Internet - IFMT.
 
 ## 🚀 Funcionalidades
 **Campos de entrada para:**
