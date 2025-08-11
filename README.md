@@ -10,15 +10,18 @@ Projeto realizado para a disciplina Front-End do 1º Semestre - 4ª semamna - do
 - Data de nascimento
 - Sexo (Masculino/Feminino)
 - Telefone
-**Validação em tempo real:**
+
+ **Validação em tempo real:**
 - Nome entre 3 e 100 caracteres.
 - E-mail entre 11 e 100 caracteres.
 - CPF com verificação de dígitos e formatação correta.
 - Telefone com 11 dígitos.
 - Seleção obrigatória de sexo.
-**Feedback ao usuário:**
+
+ **Feedback ao usuário:**
 - Alertas de erros de preenchimento.
- - Mensagem de sucesso ao enviar.
+- Mensagem de sucesso ao enviar.
+
 **Processamento no servidor (PHP):**
 - Recebimento dos dados enviados via POST.
 - Exibição dos dados enviados em layout limpo e centralizado.
